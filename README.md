@@ -1,9 +1,12 @@
 # openai-logit-bias-classification-walkthrough
 Learn how to use logit bias with OpenAI models to create highly-powerful classifiers in minutes.
 
-This notebook will walk you through using OpenAI's logit bias functionality to force the model to output only the classifiers we want, drastically improving LLM performance on classification tasks. With this approach, we can (in minutes) create classifiers that outperform custom-trained classifiers simply by using off-the-shelf LLM APIs.
+[This notebook](https://colab.research.google.com/drive/1fx0NeWHE7S97gdvadR-WC0z36R2Z_mu9?usp=sharing) will walk you through using OpenAI's logit bias functionality to force the model to output only the classifiers we want, drastically improving LLM performance on classification tasks. With this approach, we can (in minutes) create classifiers that outperform custom-trained classifiers simply by using off-the-shelf LLM APIs.
 
 This notebook shows a) how to make a standard 'true'/'false' classifier, and b) how to make a custom classifier for more complex tasks.
+
+## Getting Started
+[Use it in Google Colab with this link,](https://colab.research.google.com/drive/1fx0NeWHE7S97gdvadR-WC0z36R2Z_mu9?usp=sharing) or download the .ipynb file in the repo.
 
 ## Benchmarking
 **Beyond demonstrating how these systems are built, this notebook also provides a benchmarking system to test the performance of multiple LLMs against your target tasks.**
