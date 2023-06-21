@@ -15,3 +15,10 @@ Below these tables, you'll be able to see the latency of each model. With both o
 
 ## Productionizing Classifiers
 After you've created a classifier you're happy with, you can use the templates in the bottom two cells to get your classifiers ready for production use.
+
+## License
+This project is MIT licensed.
+
+## Contact
+Matt Shumer - @mattshumer_
+Project Link: https://github.com/mshumer/gpt-author/
