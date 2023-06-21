@@ -8,3 +8,6 @@ This notebook shows a) how to make a standard 'true'/'false' classifier, and b) 
 **Beyond demonstrating how these systems are built, this notebook also provides a benchmarking system to test the performance of multiple LLMs against your target tasks.**
 
 The system will output easy-to-read performance tables, like this:
+<img width="923" alt="Screen Shot 2023-06-20 at 9 21 03 PM" src="https://github.com/mshumer/openai-logit-bias-classification-walkthrough/assets/41550495/64eed7d5-8389-47bc-a844-41f6571de469">
+
+Below these tables, you'll be able to see the latency of each model. With both of these, you should be able to choose the best model for your use-case.
