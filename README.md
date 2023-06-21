@@ -24,4 +24,4 @@ This project is MIT licensed.
 
 ## Contact
 Matt Shumer - @mattshumer_
-Project Link: https://github.com/mshumer/gpt-author/
+Project Link: https://github.com/mshumer/openai-logit-bias-classification-walkthrough
